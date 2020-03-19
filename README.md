@@ -1,1 +1,1 @@
-Descrizione progetto: esercizio 2 di git hub
+# il mio README
