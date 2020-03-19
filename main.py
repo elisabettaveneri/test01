@@ -1,2 +1,2 @@
-n = int(input("Dimmi un numero"))
-print(n*2)
+nome = input("Come ti chiami?")
+print("Ciao", nome)
