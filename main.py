@@ -1,2 +1,2 @@
 n = int(input("Dimmi un numero"))
-print(n*2)
+print(n*3)
