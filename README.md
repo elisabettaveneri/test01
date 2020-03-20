@@ -1,1 +1,1 @@
-esercizio 04 di github
+esercizio 04 di github con programma main.py: dato un intero restituisce il suo triplo
